@@ -1,4 +1,4 @@
-## Hi 👋 Iam Venkitesh 
+## Hi Iam Venkitesh Sasikumar
 
 # 💫 About Me:
 I am an fourth year computer science and engineering student,passionate about exploring the realms of coding, machine learning, and building robust applications.
