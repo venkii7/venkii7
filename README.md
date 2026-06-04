@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI/ML Researcher</h3>
 
 # 💫 About Me:
-I am a final-year Computer Science and Engineering student with a strong research interest in artificial intelligence and machine learning. My work focuses on developing and analyzing ML models, exploring data-driven approaches, and contributing to research-oriented AI/ML projects that bridge theory and real-world applications.
+I am a Computer Science and Engineering graduate with a strong research interest in artificial intelligence and machine learning. My work focuses on developing and analyzing ML models, exploring data-driven approaches, and contributing to research-oriented AI/ML projects that bridge theory and real-world applications.
 
 
 # 💻 Tech Stack:
